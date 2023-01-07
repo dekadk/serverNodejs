@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "main.html",
+    // "start": "main.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
