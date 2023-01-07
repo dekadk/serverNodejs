@@ -178,7 +178,5 @@ app.post('/getdetail2',(req,res)=>{
 })
 
 var port = process.env.APP_PORT;
-app.listen(port, function () {
-  console.log('Listening on port ' + port);
-}); 
+app.listen(port || 8080);
 
